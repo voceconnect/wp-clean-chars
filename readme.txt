@@ -10,9 +10,7 @@ This plugin will convert the characters pasted from any character set to a valid
 
 == Description ==
 
-Copying and pasting content from the web or other documents can insert invalid characters into post content and create invalid
-RSS feeds.  WP Clean Characters fixes this by converting those invalid characters into valid UTF-8 entities when saving a post.
-A feature is also included to go through your post archive and clean any invalid characters in those as well.
+Copying and pasting content from the web or other documents can insert invalid characters into post content and create invalid RSS feeds.  WP Clean Characters fixes this by converting those invalid characters into valid UTF-8 entities when saving a post. A feature is also included to go through your post archive and clean any invalid characters in those as well.
 
 == Installation ==
 
@@ -27,4 +25,4 @@ This plugin won't make any changes to your content if your site's encoding is no
 
 == Changelog ==
 = 0.1.0 =
-* Initial Beta Release
+* Initial Release
