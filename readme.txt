@@ -1,4 +1,4 @@
-=== WP Clean Characters ===
+=== Plugin Name ===
 Contributors: prettyboymp
 Donate link: http://voceconnect.com/
 Tags: valid, HTML, entities, UTF-8
