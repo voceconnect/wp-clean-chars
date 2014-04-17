@@ -4,7 +4,7 @@ Donate link: http://voceconnect.com/
 Tags: valid, HTML, entities, UTF-8
 Requires at least: 2.9
 Tested up to: 3.0.
-Stable tag: trunk
+Stable tag: 0.1.0
 
 This plugin will convert the characters pasted from any character set to a valid UTF-8 entities.
 

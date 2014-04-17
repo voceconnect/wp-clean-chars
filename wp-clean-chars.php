@@ -3,7 +3,7 @@
 Plugin Name: WP Clean Characters
 Plugin URI: http://voceconnect.com
 Description: Cleans invalid unicode characters from your posts
-Version: 0.1
+Version: 0.1.0
 Author: Michael Pretty (prettyboymp)
 */
 
